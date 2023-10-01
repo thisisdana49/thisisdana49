@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요. 더 나은 내일을 꿈꾸는 개발자 조다은입니다. 🙇‍♂️👋
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/thisisdana49@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisdana49&show_icons=true&theme=radical)
 
 <!--
 **thisisdana49/thisisdana49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
